@@ -1,0 +1,58 @@
+# goals.txt
+# My Personal and Academic Goals for Next Year
+### Academic Goals
+
+1. Master Core Concepts in My Track
+
+   * Understand data structures, algorithms, and system design in depth.
+   * Review ALX modules weekly and reinforce learning with personal projects or LeetCode challenges.
+
+2. **Complete All ALX Projects on Time**
+
+   * Stick to a consistent weekly schedule to meet deadlines.
+   * Break large projects into smaller tasks using tools like Trello or Notion.
+
+3. **Build a Strong Portfolio**
+
+   * Develop at least three polished projects hosted on GitHub, complete with documentation and README files.
+   * Deploy at least one project, using options like Netlify, Heroku, or AWS.
+
+4. **Collaborate Effectively in Peer Learning**
+
+   * Actively take part in team projects and peer reviews.
+   * Lead or contribute significantly in at least three group discussions or peer code reviews.
+
+5. **Prepare for Internship/Job Readiness**
+
+   * Update and refine my resume and LinkedIn profile.
+   * Practice mock interviews every month for both technical and behavioral questions.
+   * Apply for at least ten internships or entry-level roles by year-end.
+
+---
+
+### **Personal Goals**
+
+1. **Enhance Time Management**
+
+   * Use time-blocking or the Pomodoro technique to balance study and rest.
+   * Set daily and weekly goals, with check-ins every Sunday.
+
+2. **Improve Communication Skills**
+
+   * Join a local or online speaking group, like Toastmasters.
+   * Write one blog post or LinkedIn article each month about what I’m learning.
+
+3. **Prioritize Mental and Physical Health**
+
+   * Exercise three times a week, including walks, home workouts, or yoga.
+   * Practice mindfulness or journaling at least twice a week.
+
+4. **Build a Strong Network**
+
+   * Attend at least three tech events, whether in-person or virtual.
+   * Connect with two professionals or mentors in my field each month.
+
+5. **Give Back and Grow**
+
+   * Mentor or support at least one new ALX student.
+   * Contribute to open-source projects or volunteer in a tech-related cause once a quarter.
